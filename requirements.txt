@@ -1,0 +1,8 @@
+deepagents
+tavily-python
+arxiv
+dotenv
+langchain
+langchain_community
+langchain_classic
+rich
